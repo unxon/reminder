@@ -1,0 +1,1 @@
+/home/ubuntu/reminders_alerts_app/build/jni/intermediates/cxx/RelWithDebInfo/1q1s2g6c/obj/arm64-v8a

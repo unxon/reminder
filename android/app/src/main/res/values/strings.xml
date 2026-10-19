@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">موعد</string>
+    <color name="mawed_primary">#0E7C66</color>
+    <color name="mawed_splash_background">#0B5F50</color>
+</resources>

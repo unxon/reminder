@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/ubuntu/.pub-cache/hosted/pub.dev/jni-1.1.0/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ubuntu/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/ubuntu/.pub-cache/hosted/pub.dev/jni-1.1.0/android/.cxx/RelWithDebInfo/1q1s2g6c/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ubuntu/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/ubuntu/.pub-cache/hosted/pub.dev/jni-1.1.0/android/.cxx/RelWithDebInfo/1q1s2g6c/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "jni",
+      "abi": "x86",
+      "output": "/home/ubuntu/reminders_alerts_app/build/jni/intermediates/cxx/RelWithDebInfo/1q1s2g6c/obj/x86/libdartjni.so",
+      "runtimeFiles": []
+    }
+  }
+}

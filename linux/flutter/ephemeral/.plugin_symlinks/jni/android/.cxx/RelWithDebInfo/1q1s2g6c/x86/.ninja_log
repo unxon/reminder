@@ -1,0 +1,5 @@
+# ninja log v5
+1	96	1792048920337703890	CMakeFiles/jni.dir/include/dart_api_dl.c.o	e53807a174d8a45
+0	151	1792048920393704336	CMakeFiles/jni.dir/dartjni.c.o	293f12b9e8d94606
+1	833	1792048921069709718	CMakeFiles/jni.dir/third_party/global_jni_env.c.o	688a28cee39afb67
+833	858	1792048921101812194	/home/ubuntu/reminders_alerts_app/build/jni/intermediates/cxx/RelWithDebInfo/1q1s2g6c/obj/x86/libdartjni.so	8e6efb83337fe2
